@@ -48,7 +48,7 @@ graph TD
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/arsath-eng/RAG1-NVIDIA-GENAI.git
+git clone https://github.com/debasish7ripathy/RAG1-NVIDIA-GENAI.git
 cd RAG1-NVIDIA-GENAI
 ```
 
@@ -244,8 +244,3 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 
 
-[![Stars](https://img.shields.io/github/stars/arsath-eng/RAG1-NVIDIA-GENAI?style=social)](https://github.com/arsath-eng/RAG1-NVIDIA-GENAI)
-
-*Made with ❤️ by [@arsath-eng](https://github.com/arsath-eng)*
-
-</div>
