@@ -48,7 +48,7 @@ graph TD
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/debasish7ripathy/RAG1-NVIDIA-GENAI.git
+git clone https://github.com/debasish7ripathy/Nvidia-Rag.git
 cd RAG1-NVIDIA-GENAI
 ```
 
